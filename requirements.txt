@@ -1,11 +1,6 @@
-streamlit==1.28.0
-pandas==2.0.3
-numpy==1.24.3
-Pillow==10.0.0
-scikit-learn==1.3.0
-python-dotenv==1.0.0
-plotly==5.18.0
-protobuf>=3.20.0
-watchdog==3.0.0  # For better file system monitoring
-pkg-config
-python-3.10.0
+streamlit
+pandas
+numpy
+pillow
+scikit-learn
+sqlite3
