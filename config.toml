@@ -1,9 +1,0 @@
-# Create .streamlit/config.toml
-[browser]
-gatherUsageStats = false
-
-[server]
-enableXsrfProtection = false
-
-[auth]
-enabled = true
