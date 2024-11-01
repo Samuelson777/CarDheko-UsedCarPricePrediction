@@ -1,0 +1,7 @@
+streamlit==1.12.0  # Specify the version of Streamlit you're using
+pandas==1.4.2       # For data manipulation and analysis
+numpy==1.21.6       # For numerical operations
+scikit-learn==1.0.2 # For machine learning models
+matplotlib==3.5.1    # For plotting (if you use any plots)
+seaborn==0.11.2     # For enhanced visualizations (if applicable)
+joblib==1.1.0       # For saving and loading models (if applicable)
