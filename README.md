@@ -30,4 +30,7 @@ forest model's performance.
 ##  Streamlit Application Development:
  * Deploying the predictive model through the Streamlit application 
 revolutionizes the user experience at CarDekho by delivering swift and 
-reliable price estimates for used cars. 
+reliable price estimates for used cars.
+
+![Image](https://github.com/user-attachments/assets/7b453b0c-0770-4030-b590-a8752630f1a0)
+
