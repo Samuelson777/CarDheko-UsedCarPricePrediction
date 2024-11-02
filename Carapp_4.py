@@ -31,7 +31,7 @@ st.markdown("""
 # --- LOAD DATA AND MODEL ---
 @st.cache_data
 def load_data():
-    df = pd.read_csv(r"F:\Education and Job\Guvi\Car Dheko_M3\Data_cleaning_2\final_df.csv")  # Update with your file path
+    df = pd.read_csv("final_df.csv")  # Update with your file path
     return df
 
 @st.cache_resource
