@@ -36,3 +36,5 @@ reliable price estimates for used cars.
 
 ### CarDheko-UsedCarPricePrediction App link: https://cardheko-usedcarpriceprediction-92r5gsqkpfamg7myasao8s.streamlit.app/
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/CarDheko-UsedCarPricePrediction/blob/main/LICENSE) file for details.
